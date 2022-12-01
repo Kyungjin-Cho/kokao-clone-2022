@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
 
 @import "reset.css";
@@ -14,9 +15,10 @@
 /* Screens */
 @import "screens/login.css";
 @import "screens/friends.css";
+@import "screens/find.css";
 
 body {
-  font-family: 'Nerko One', cursive;
+  font-family: 'Nanum Pen Script', cursive;
   color: #2e363e;
 }
 
