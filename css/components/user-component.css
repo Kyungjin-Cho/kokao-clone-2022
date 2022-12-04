@@ -52,3 +52,21 @@
   margin-bottom: 5px;
   display: block;
 }
+
+.user-component__text {
+  position: relative;
+}
+
+.user-component__text span {
+  position:absolute;
+  color:tomato;
+  font-size:12px;
+  font-weight: 600;
+  width:1em;
+  border-radius: 50%;
+  padding:0px 0.1px;
+  border:2px solid tomato;
+  text-align:center;
+  right:-1px;
+  bottom:0px;
+}
