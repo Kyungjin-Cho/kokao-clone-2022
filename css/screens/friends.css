@@ -52,3 +52,8 @@
   animation: highSplashScren 0.3s ease-in-out forwards;
   animation-delay: 2s;
 }
+
+#splash-screen img {
+  width: 500px;
+  height: 500px;
+}

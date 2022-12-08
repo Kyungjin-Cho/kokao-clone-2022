@@ -5,10 +5,16 @@
   background-color: var(--yellow);
   width: 100vw;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   font-size: 32px;
   top: 0;
+}
+
+#no-mobile img {
+  width: 500px;
+  height: 500px;
 }
 
 @media screen and (max-width:645px){

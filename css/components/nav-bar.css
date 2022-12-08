@@ -18,6 +18,11 @@
   color: #2e363e;
 }
 
+.nav__btn img {
+  width: 70px;
+  height: 70px;
+}
+
 @keyframes notificationAnimation {
   0% {
     transform: none;
