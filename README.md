@@ -6,7 +6,7 @@
 > Version 1 - In progress
 
 ## Live Demo
-> Github Page (https://kyungjin-cho.github.io/kokoa-clone-2022/)
+> Github Page (https://kyungjin-cho.github.io/kokoa-clone-2022/index.html)
 
 ## Features
 * [x] 
