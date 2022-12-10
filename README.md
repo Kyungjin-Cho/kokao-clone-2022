@@ -1,6 +1,6 @@
 # Kokoa Clone 2022 Update
 ## by Kyungjin Cho
-> This repository will be used for the 'Kokoa Clone 2022 Update'
+> This repository will be used for the 'Kokoa Clone 2022 Update(Rick and Morty Theme)'
 
 ## Full Design
 > Version 1 - In progress
