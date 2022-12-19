@@ -93,11 +93,12 @@
   margin-right: 5px;
 }
 
+
 .message__time,
 .message__author {
   opacity: 0.8;
   font-size: 14px;
-  color: #008080
+  color: teal;
 }
 
 @keyframes fadeIn-right{
@@ -123,6 +124,23 @@ to{
   margin-right: 0px;
   margin-left: 5px;
 }
+
+.message__bubble__pic {
+  padding: 13px;
+  font-size: 18px;
+  border-radius: 15px;
+  background-color: transparent;
+  border-top-right-radius: 0px;
+  border-top-left-radius: 15px;
+  margin-right: 0px;
+  margin-left: 5px;
+}
+
+.message__bubble__pic img {
+  width: 200px;
+  height: 200px;
+}
+
 
 .message-row--own .message__info {
   flex-direction: row-reverse;
