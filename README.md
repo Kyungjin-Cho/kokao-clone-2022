@@ -9,7 +9,8 @@
 > Github Page (https://kyungjin-cho.github.io/kokoa-clone-2022/index.html)
 
 ## Features
-* [x] 
+* [x] CSS
+* [x] HTML
 
 ## Resources
 - //
