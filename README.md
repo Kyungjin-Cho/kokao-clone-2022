@@ -13,4 +13,4 @@
 * [x] HTML
 
 ## Resources
-- fontawesome(https://fontawesome.com/)
+- Font Awesome(https://fontawesome.com/)
