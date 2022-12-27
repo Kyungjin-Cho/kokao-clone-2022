@@ -5,7 +5,7 @@
 ## Full Design
 > Version 1 - Development Period : Two Weeks('22.12.05 ~ '22.12.18)
 <p align="center">
-<img src="https://user-images.githubusercontent.com/56642855/209681821-cca70bc9-eadd-43f5-9ddb-c8bb99b9fe13.gif", height="450px">
+<img src="https://user-images.githubusercontent.com/56642855/209682729-1ffae5dc-3a05-4ffd-bd54-5ef4936aba06.gif", height="450px">
 </p>
 
 ## Live Demo
